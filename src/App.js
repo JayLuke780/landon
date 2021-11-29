@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and aws code.
+          Learn React and aws code. 
         </a>
       </header>
     </div>
